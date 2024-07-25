@@ -31,7 +31,7 @@ Modlist Installation Location: Wherever you want on the SSD (F:/Wabbajack/NWP)
 
 Resource Download Location: Same as above but in the "downloads" subfolder (F:/Wabajack/NWP/downloads)
 
-8. Press play and download
+8. Press play and download all the mods as they pop up until the modpack has finished
 9. Launch MO2 in the NWP folder, download and place this version of USSEP top of the modded load order:
 https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=241103
 10. Make sure Skyrim Together Reborn executable in MO2 points to your relevant files and folders
