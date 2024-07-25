@@ -23,9 +23,13 @@ ccQDRSSE001-SurvivalMode.esl
 
 6. Download Wabbajack at https://www.wabbajack.org/
 7. In Wabbajack press Install From Disk
+
 Target Modlist: NWP.wabbajack
+
 Modlist Installation Location: Wherever you want on the SSD (F:/Wabbajack/NWP)
+
 Resource Download Location: Same as above but in the "downloads" subfolder (F:/Wabajack/NWP/downloads)
+
 8. Press play and download
 9. Launch MO2 in the NWP folder, download and place this version of USSEP top of the modded load order:
 https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=241103
