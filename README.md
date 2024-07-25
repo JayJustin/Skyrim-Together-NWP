@@ -5,13 +5,21 @@
 4. Press play in the launcher, close the game when it reaches the main menu
 5. Go to your Skyrim game install folder, then into the Data folder, then delete these files:
 ccBGSSSE001-Fish.bsa
+
 ccBGSSSE001-Fish.esm
+
 ccBGSSSE025-AdvDSGS.bsa
+
 ccBGSSSE025-AdvDSGS.esm
+
 ccBGSSSE037-Curios.bsa
+
 ccBGSSSE037-Curios.esl
+
 ccQDRSSE001-SurvivalMode.bsa
+
 ccQDRSSE001-SurvivalMode.esl
+
 6. Download Wabbajack at https://www.wabbajack.org/
 7. In Wabbajack press Install From Disk
 Target Modlist: NWP.wabbajack
