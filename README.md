@@ -22,7 +22,8 @@ ccQDRSSE001-SurvivalMode.bsa
 ccQDRSSE001-SurvivalMode.esl
 
 6. Download Wabbajack at https://www.wabbajack.org/
-7. In Wabbajack press Install From Disk
+7. Extract "NWP.wabbajack" and the .meta.json file to a folder
+8. In Wabbajack press Install From Disk
 
 Target Modlist: NWP.wabbajack
 
